@@ -21,8 +21,8 @@ async function showProject(){
             </div>
             <!-- mobile -->
             <div class="projects-view">
-                <a href="${project.viewProjects}" class="project-view" target="_blank">Projeyi Görüntele</a>
-                <a href="${project.viewCode}" class="project-view" target="_blank">Kodu Görüntele</a>
+                <a href="${project.viewProjects}" class="project-view" target="_blank">View Project</a>
+                <a href="${project.viewCode}" class="project-view" target="_blank">View Code</a>
                 </div>
                 <!-- mobile end -->
                 </div>

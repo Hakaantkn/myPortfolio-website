@@ -1,0 +1,69 @@
+{
+    "projects": [
+        {
+            "title": "Cofferoasters",
+            "photo": "../assets/img/projects-img/Ekran Resmi 2024-04-29 23.22.33.png",
+            "viewCode": "https://github.com/Hakaantkn/projeS-nav",
+            "viewProjects": "https://hakaantkn.github.io/projeS-nav/",
+            "language": [
+                "HTML",
+                "CSS"   
+            ]
+        },
+
+    {
+        "title": "TypeMaster",
+        "photo": "/assets/img/projects-img/Ekran Resmi 2024-04-29 23.29.28.png",
+        "viewCode": "https://github.com/Hakaantkn/figmatasarimm",
+        "viewProjects": "https://hakaantkn.github.io/figmatasarimm/",
+        "language": [
+            "HTML",
+            "CSS" 
+        ]
+    },
+
+   {
+    "title": "Cofferoasters About us",
+    "photo": "/assets/img/projects-img/Ekran Resmi 2024-04-29 23.33.25.png",
+    "viewCode": "https://github.com/Hakaantkn/figmaTasarim",
+    "viewProjects": "https://hakaantkn.github.io/figmaTasarim/",
+    "language": [
+        "HTML",
+        "CSS" 
+    ]
+   },
+
+   {
+    "title": "Fabrx",
+    "photo": "/assets/img/projects-img/Ekran Resmi 2024-04-29 23.38.29.png",
+    "viewCode": "https://github.com/Hakaantkn/oyleDeneme",
+    "viewProjects": "https://hakaantkn.github.io/oyleDeneme/",
+    "language": [
+        "HTML",
+        "CSS"  
+    ]
+   },
+
+   {
+    "title": "DevJobs",
+    "photo": "/assets/img/projects-img/Ekran Resmi 2024-04-29 23.38.01.png",
+    "viewCode": "https://github.com/Hakaantkn/devJobsProject",
+    "viewProjects": "https://hakaantkn.github.io/devJobsProject/",
+    "language": [
+        "HTML",
+        "CSS"   
+    ]
+   },
+
+   {
+    "title": "Cars",
+    "photo": "/assets/img/projects-img/Ekran Resmi 2024-04-29 23.43.02.png",
+    "viewCode": "https://github.com/Hakaantkn/carsEnler",
+    "viewProjects": "https://hakaantkn.github.io/carsEnler/",
+    "language": [
+        "HTML",
+        "CSS"   
+    ]
+   }
+    ]
+}

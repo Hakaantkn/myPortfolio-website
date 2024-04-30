@@ -96,7 +96,7 @@ li{list-style-type: none;}
     position: absolute;
     max-width: 332px;
     max-height: 600px;
-    top: -150px;
+    top: 5px;
     z-index: -1;
     opacity: 0.8;
     animation: sagaKaydir 2s ease-in-out;
@@ -116,7 +116,7 @@ li{list-style-type: none;}
 }
 .my-blog-header{
     position: absolute;
-    top: 300px;
+    top: 450px;
     animation: kaydir 2s ease-in-out;
 }
 
@@ -124,6 +124,7 @@ li{list-style-type: none;}
     font-weight: 700;
     font-size: 40px;
     letter-spacing: -2.05px;
+
 }
 
 
@@ -139,7 +140,8 @@ li{list-style-type: none;}
 
 .cv{
     position: absolute;
-    top: 150px;
+    top: 170px;
+    left: 100px;
     background-color: #4EE1A0;
     color: #171717;
     padding: 10px 24px;
@@ -590,6 +592,9 @@ footer{
     .project-text{
         margin-top: 20px;
     }
+    .cv{
+        left: 0;
+    }
     .project-view{display: block;}
     /* Projects HTML End*/
 }
@@ -782,6 +787,8 @@ footer{
     .project:hover .projects-view {
         opacity: 1;
     }
-
+    .cv{
+        left: 0;
+    }
     /* Projects HTML End*/
 }

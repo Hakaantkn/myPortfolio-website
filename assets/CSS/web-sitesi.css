@@ -65,8 +65,14 @@ li{list-style-type: none;}
 .hamburger-menu{
     display: block;
     width: 35px;
+    opacity: 0.1;
+    animation: a1 2s forwards ease-in-out;
 }
-
+@keyframes a1{
+    to{
+        opacity: 1;
+    }
+}
 .name{
     text-decoration-color: #4EE1A0;
     text-decoration-thickness: 5px;

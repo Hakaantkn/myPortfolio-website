@@ -26,10 +26,6 @@ function zamanFarkiniGuncelle() {
 document.addEventListener('DOMContentLoaded', zamanFarkiniGuncelle);
 
 
-const cvBtn = document.querySelector('.cv');
-cvBtn.addEventListener('click', function(){
-    alert('CV not ready yet');
-})
 
 
 

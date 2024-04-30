@@ -71,19 +71,3 @@ function openNav() {
 
 
 
-const emailInput = document.querySelector(".email");
-
-emailInput.addEventListener("click", function(){
-    console.log(this);
-    if(this.classList.contains("invalidd")){
-        this.classList.remove("invalidd");
-        this.style.borderColor="#4EE1A0"
-        this.style.borderColor=""
-    }
-    else{
-        this.classList.add("invalidd");
-        this.style.borderColor = "red";
-        this.style.borderColor=""
-
-    }
-})

@@ -48,6 +48,7 @@ li{list-style-type: none;}
     position: relative;
     animation: kaydir 2s ease-in-out;
 }
+
 @keyframes kaydir {
     0% {
         left: -100%;
@@ -334,7 +335,9 @@ footer{
     row-gap: 40px;
     position: relative;
     animation: kaydir 2s ease-in-out;
+
 }
+
 
 .project-header{
     font-weight: 700;

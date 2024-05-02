@@ -25,9 +25,33 @@ function zamanFarkiniGuncelle() {
 
 document.addEventListener('DOMContentLoaded', zamanFarkiniGuncelle);
 
-
-
-
+// function init() {
+//     const textChange = document.querySelector('.text-change');
+//     const text = "Hakan Tekin";
+//     let index = 0;
+//     let writing = true;
+    
+//     function type() {
+//         if (writing) {
+//             textChange.textContent = text.substring(0, index);
+//             index++;
+//             if (index === text.length) {
+//                 writing = false;
+//             }
+//         } else {
+//             textChange.textContent = text.substring(0, index);
+//             index--;
+//             if (index === 0) {
+//                 writing = true;
+                
+                
+//             }
+//         }
+//         setTimeout(type, 100);
+//     }
+//     type();
+// }
+// init();
 
 
 

@@ -43,8 +43,6 @@ document.addEventListener('DOMContentLoaded', zamanFarkiniGuncelle);
 //             index--;
 //             if (index === 0) {
 //                 writing = true;
-                
-                
 //             }
 //         }
 //         setTimeout(type, 100);

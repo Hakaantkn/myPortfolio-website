@@ -12,7 +12,7 @@ function zamanFarkiHesapla(baslangicTarihi) {
 }
 
 function zamanFarkiniGuncelle() {
-    let baslangicTarihleri = ['2023-10', '2023-10', '2023-10'];
+    let baslangicTarihleri = ['2023-10', '2023-10', '2023-10', '2024-05'];
     let zamanFarkiElemanlari = document.querySelectorAll('.experices-span');
     zamanFarkiElemanlari.forEach((eleman, index) => {
         if (index < baslangicTarihleri.length) {
@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', zamanFarkiniGuncelle);
 
 // function init() {
 //     const textChange = document.querySelector('.text-change');
-//     const text = "Hakan Tekin";
+//     const text = " Hakan Tekin";
 //     let index = 0;
 //     let writing = true;
     
@@ -47,9 +47,9 @@ document.addEventListener('DOMContentLoaded', zamanFarkiniGuncelle);
 //         }
 //         setTimeout(type, 100);
 //     }
-//     type();
+    
 // }
-// init();
+// type();
 
 
 

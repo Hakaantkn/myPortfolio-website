@@ -12,6 +12,21 @@
         },
 
     {
+        "title": "CreditCard",
+        "photo": "../assets/img/projects-img/Screenshot 2024-06-06 at 19.22.20.png",
+        "viewCode": "https://github.com/Hakaantkn/creditCardApp",
+        "viewProjects": "https://hakaantkn.github.io/creditCardApp/",
+        "language" : [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+            
+            
+        
+    },
+
+    {
         "title": "TypeMaster",
         "photo": "/assets/img/projects-img/Ekran Resmi 2024-04-29 23.29.28.png",
         "viewCode": "https://github.com/Hakaantkn/figmatasarimm",

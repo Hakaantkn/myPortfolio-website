@@ -12,7 +12,7 @@ function zamanFarkiHesapla(baslangicTarihi) {
 }
 
 function zamanFarkiniGuncelle() {
-    let baslangicTarihleri = ['2023-10', '2023-10', '2023-10', '2024-05'];
+    let baslangicTarihleri = ['2023-10', '2023-10', '2023-10', '2024-05', '2024-07'];
     let zamanFarkiElemanlari = document.querySelectorAll('.experices-span');
     zamanFarkiElemanlari.forEach((eleman, index) => {
         if (index < baslangicTarihleri.length) {

@@ -1,15 +1,5 @@
 {
     "projects": [
-        {
-            "title": "Cofferoasters",
-            "photo": "../assets/img/projects-img/Ekran Resmi 2024-04-29 23.22.33.png",
-            "viewCode": "https://github.com/Hakaantkn/projeS-nav",
-            "viewProjects": "https://hakaantkn.github.io/projeS-nav/",
-            "language": [
-                "HTML",
-                "CSS"   
-            ]
-        },
 
     {
         "title": "CreditCard App",
@@ -23,8 +13,41 @@
             "React"
         ]
             
-            
-        
+    },
+
+    {
+        "title": "Rock Paper Scissors",
+        "photo": "../assets/img/projects-img/Ekran Resmi 2024-07-17 17.09.38.png",
+        "viewCode": "https://github.com/Hakaantkn/rock-paper-scissors",
+        "language" : [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "NextJs"
+        ]
+    },
+
+
+    {
+        "title": "Cofferoasters",
+        "photo": "../assets/img/projects-img/Ekran Resmi 2024-04-29 23.22.33.png",
+        "viewCode": "https://github.com/Hakaantkn/projeS-nav",
+        "viewProjects": "https://hakaantkn.github.io/projeS-nav/",
+        "language": [
+            "HTML",
+            "CSS"   
+        ]
+    },
+
+    {
+        "title": "Cofferoasters About us",
+        "photo": "/assets/img/projects-img/Ekran Resmi 2024-04-29 23.33.25.png",
+        "viewCode": "https://github.com/Hakaantkn/figmaTasarim",
+        "viewProjects": "https://hakaantkn.github.io/figmaTasarim/",
+        "language": [
+            "HTML",
+            "CSS" 
+        ]
     },
 
     {
@@ -38,16 +61,7 @@
         ]
     },
 
-   {
-    "title": "Cofferoasters About us",
-    "photo": "/assets/img/projects-img/Ekran Resmi 2024-04-29 23.33.25.png",
-    "viewCode": "https://github.com/Hakaantkn/figmaTasarim",
-    "viewProjects": "https://hakaantkn.github.io/figmaTasarim/",
-    "language": [
-        "HTML",
-        "CSS" 
-    ]
-   },
+   
 
    {
     "title": "Fabrx",

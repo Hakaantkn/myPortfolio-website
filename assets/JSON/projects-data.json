@@ -96,17 +96,6 @@
         "HTML",
         "CSS"   
     ]
-   },
-
-   {
-    "title": "Cars",
-    "photo": "/assets/img/projects-img/Ekran Resmi 2024-04-29 23.43.02.png",
-    "viewCode": "https://github.com/Hakaantkn/carsEnler",
-    "viewProjects": "https://hakaantkn.github.io/carsEnler/",
-    "language": [
-        "HTML",
-        "CSS"   
-    ]
    }
     ]
 }

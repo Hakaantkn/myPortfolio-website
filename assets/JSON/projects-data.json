@@ -1,5 +1,18 @@
 {
     "projects": [
+    {
+        "title": "Real Time Group Chat App",
+        "photo": "../assets/img/projects-img/chatApp.png",
+        "viewCode": "https://github.com/Hakaantkn/myChat",
+        "viewProjects": "https://my-chat-black-chi.vercel.app",
+        "language" : [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "NextJs"
+        ]
+            
+    },
 
     {
         "title": "CreditCard App",
